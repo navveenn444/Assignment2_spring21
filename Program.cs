@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace Assignment2
@@ -145,6 +144,8 @@ namespace Assignment2
             }
         }
 
+        //Self-Reflection from the above problem1, I got to learn that different kind of operations can be done on array (even from the problems in the previous assignment).
+
         //Question 2:
         /// <summary>
         /// Write a method to move all 0's to the end of the given array. You should maintain the relative order of the non-zero elements. 
@@ -188,6 +189,7 @@ namespace Assignment2
             }
         }
 
+        //Self-Reflection from the above problem2 -one main learning is how can we ignore some elements in the array and create a new array with elements as needed.
 
         //Question 3
         /// <summary>
@@ -243,6 +245,8 @@ namespace Assignment2
             }
         }
 
+        //Self-Reflection from the above problem3- using dictionary here again for adding the unique elements to identify the cool pairs with the formula  n*(n-1)/2. 
+
         //Question 4:
         /// <summary>
         /// Given integer target and an array of integers, print indices of the two numbers such that they add up to the target.
@@ -288,6 +292,7 @@ namespace Assignment2
 
         }
 
+        //Self-Reflection from the above problem4- learning here is to do different operations(subtraction in this case) on the dictionary elements and identifying if the element is already present in the dictionary
         //Question 5:
         /// <summary>
         /// Given a string s and an integer array indices of the same length.
@@ -333,6 +338,7 @@ namespace Assignment2
             }
         }
 
+        //Self-Reflection from the above problem5- This is again one kind of string manipulation using a new char array.
         //Question 6
         /// <summary>
         /// Determine whether two give strings s1 and s2, are isomorphic.
@@ -392,6 +398,8 @@ namespace Assignment2
                 throw;
             }
         }
+
+        //Self-Reflection from the above problem6- Here we are doing multiple things at once, like stringlen comparision, comparing the count of hashset and dictionary and also comparing the two string elements at their corresponding positions
 
         //Question 7
         /// <summary>
@@ -463,6 +471,9 @@ namespace Assignment2
             }
         }
 
+        //Self-Reflection from the above problem7- Although we are using multiple for loops here, there are new learnings like sorting & reversing & adding the values in the dictionary.
+
+
         //Question 8
         /// <summary>
         /// Write an algorithm to determine if a number n is happy.
@@ -516,6 +527,8 @@ namespace Assignment2
             }
         }
 
+        //Self-Reflection from the above problem8- Using the operators % and / to loop. Checking if the value is present in the dictionary.
+
         //Question 9
         /// <summary>
         /// Professor Manish is planning to invest in stocks. He has the data of the price of a stock for the next n days.  
@@ -555,6 +568,7 @@ namespace Assignment2
                 throw;
             }
         }
+        //Self-Reflection from the above problem9- Using the min and max functions available to obtain the required result
 
         //Question 10
         /// <summary>
@@ -606,5 +620,6 @@ namespace Assignment2
                 throw;
             }
         }
+        //Self-Reflection from the above problem10- using the logic in fibnoacci series- a simple and straightforward case.
     }
 }

@@ -11,3 +11,16 @@ C:\Users\apoli\source\repos\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignm
 C:\Users\apoli\source\repos\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.dll
 C:\Users\apoli\source\repos\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.pdb
 C:\Users\apoli\source\repos\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.genruntimeconfig.cache
+C:\Navveenn\DIS\Assignment2_spring21\bin\Debug\netcoreapp3.1\Assignment2_spring21.exe
+C:\Navveenn\DIS\Assignment2_spring21\bin\Debug\netcoreapp3.1\Assignment2_spring21.deps.json
+C:\Navveenn\DIS\Assignment2_spring21\bin\Debug\netcoreapp3.1\Assignment2_spring21.runtimeconfig.json
+C:\Navveenn\DIS\Assignment2_spring21\bin\Debug\netcoreapp3.1\Assignment2_spring21.runtimeconfig.dev.json
+C:\Navveenn\DIS\Assignment2_spring21\bin\Debug\netcoreapp3.1\Assignment2_spring21.dll
+C:\Navveenn\DIS\Assignment2_spring21\bin\Debug\netcoreapp3.1\Assignment2_spring21.pdb
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.csprojAssemblyReference.cache
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.AssemblyInfoInputs.cache
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.AssemblyInfo.cs
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.csproj.CoreCompileInputs.cache
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.dll
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.pdb
+C:\Navveenn\DIS\Assignment2_spring21\obj\Debug\netcoreapp3.1\Assignment2_spring21.genruntimeconfig.cache
